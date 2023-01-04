@@ -1,2 +1,3 @@
-node_modules
+inode_modules
 .gradle
+dist
